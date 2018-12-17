@@ -1,0 +1,4 @@
+Requirements (libraries for python):
+opencv-contrib-python
+dlib
+numpy
